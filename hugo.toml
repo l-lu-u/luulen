@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "vintage-web-hugo-theme"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 # Pagination
 [pagination]
   pagerSize = 10
