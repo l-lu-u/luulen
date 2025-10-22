@@ -1,0 +1,14 @@
+:root {
+    --bg-primary: #027b7b;
+    --bg-secondary: #b8f50f;
+    --bg-window: #F0F0F0;
+    --text-primary: #000000;
+    --text-visited: #6f1ced;
+    --text-link: #0000EE;
+    --highlight: #316AC5;
+    --button-face: #DCDCDC;
+  }
+
+  .custom-style {
+    background: linear-gradient(45deg, #ff00ff, #00ffff);
+  }

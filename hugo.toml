@@ -1,6 +1,6 @@
 baseURL = 'https://l-lu-u.github.io/luulen/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Luulen...'
 theme = "vintage-web-hugo-theme"
 
 [caches]
@@ -36,9 +36,12 @@ theme = "vintage-web-hugo-theme"
 
 # Theme Parameters
 [params]
+  # Custom CSS
+  custom_css = ["css/custom.css"]
+
   # Site Description
-  description = "A nostalgic journey through the early web"
-  author = "Your Name"
+  description = "(I think.)"
+  author = "luulisin"
 
   # Retro Features
   show_browser_chrome = true
